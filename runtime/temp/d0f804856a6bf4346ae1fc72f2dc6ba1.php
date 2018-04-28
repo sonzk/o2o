@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:4:{s:71:"/Users/lanlee/Sites/o2o/public/../application/bis/view/index/index.html";i:1524250085;s:63:"/Users/lanlee/Sites/o2o/application/bis/view/public/header.html";i:1524035969;s:61:"/Users/lanlee/Sites/o2o/application/bis/view/public/menu.html";i:1524308722;s:63:"/Users/lanlee/Sites/o2o/application/bis/view/public/footer.html";i:1524388046;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:4:{s:71:"/Users/lanlee/Sites/o2o/public/../application/bis/view/index/index.html";i:1524923684;s:63:"/Users/lanlee/Sites/o2o/application/bis/view/public/header.html";i:1524923684;s:61:"/Users/lanlee/Sites/o2o/application/bis/view/public/menu.html";i:1524923684;s:63:"/Users/lanlee/Sites/o2o/application/bis/view/public/footer.html";i:1524923684;}*/ ?>
 <!--包含头部文件-->
 <!DOCTYPE HTML>
 <html>

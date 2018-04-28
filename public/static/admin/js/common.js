@@ -204,8 +204,9 @@ $(function () {
         var url = SCOPE.maptag_url;
         var username = $('#username').val();
         if(username == '') {
-            $('#usermsg').text('地址为空');
+            $('#usermsg').text('用户名为空');
             $('#usermsg').show();
+            return;
         }
         $.post(url,{check:2,username:username},function (data) {
             if (data.code) {
