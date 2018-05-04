@@ -74,9 +74,7 @@ class User extends Controller{
         $info = input('post.');
         parse_str($info['info'],$data);
         $validate = validate('User');
-        if (!$validate->scene('login')->check($data)){
-            $this->error($validate->getError());
-        }
+
         try{
             $user = model('User')->getUserByUsername($data['username']);
         }catch ( \Exception $e){
